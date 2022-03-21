@@ -1,6 +1,7 @@
 # ServerHostUI
 A little UI to start your server
-![DESC1](https://user-images.githubusercontent.com/58570916/159263971-b0b40d6c-ed2e-4bb8-adf8-c93699add93b.PNG)
+
+![DESC1](https://user-images.githubusercontent.com/58570916/159265739-fe15f50b-9409-4d74-93df-87fe92d21643.PNG)
 
 1. Chose a Server-Folder
 2. Select the Batch File you want to start
