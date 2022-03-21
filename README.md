@@ -16,4 +16,4 @@ If you want to change the Server-Folder:
 
 ![DESC3](https://user-images.githubusercontent.com/58570916/159264735-30b70694-d2c2-437d-9efb-a6e3f741f3f1.PNG)
 
-[demo](https://mega.nz/file/9vB0QTba#ayPgyz49LDLINL49ofU6WGZDHQw5hcQOE9-CZaD4VpM "Download Standalone")
+[Download Standalone](https://mega.nz/file/9vB0QTba#ayPgyz49LDLINL49ofU6WGZDHQw5hcQOE9-CZaD4VpM)
